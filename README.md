@@ -6,8 +6,10 @@
 
 什么？你没去审核啊？那只能在这里下载咯
 
-## 更多门追加MalisisDoorsSH
+## 更多门追加MalisisDoors
 
-暂时不能取得
+文件名称：更多门追加MalisisDoorsSH
+
+需要密码获取
  
 ####  Shanhaii craft ©2020 | NiuBoss123 ©2013-2020
