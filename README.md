@@ -1,4 +1,4 @@
-#＃Shanhaii-craft
+## Shanhaii-craft
 
 嗨！这里是Shanhaii craft的自更改mod文件下载位置哦
 
@@ -6,11 +6,8 @@
 
 什么？你没去审核啊？那只能在这里下载咯
 
-#＃更多门追加MalisisDoorsSH
+## 更多门追加MalisisDoorsSH
 
 暂时不能取得
  
-####  NSASM©2020
-####  NSDN-MC©2016-2020
-####  NSDN©2014-2020
-####  NSDN-MC©2016-2020 | NSDN©2014-2020
+####  Shanhaii craft ©2020 | NiuBoss123 ©2013-2020
